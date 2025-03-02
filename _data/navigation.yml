@@ -1,11 +1,11 @@
 - name: Home
-  url: /
+  url: /technical-writing-portfolio/
 - name: What is a kaleidoscope?
-  url: /concept
+  url: /technical-writing-portfolio/concept
 - name: How to send images with WhatsApp
-  url: /task
+  url: /technical-writing-portfolio/task
 - name: API reference
-  url: /api
+  url: /technical-writing-portfolio/api
 - name: Blog
-  url: /blog/transforming-search
+  url: /technical-writing-portfolio/blog/article
 
