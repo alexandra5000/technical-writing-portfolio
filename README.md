@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository showcases a variety of writing samples 
 
 * **What is a kaleidoscope?** - A detailed explanation of a concept.
 * **Sending an image with WhatsApp (iOS)** - A description of a task, with step-by-step instructions.
-* **Movie recommendation API documentation** - A sample of comprehensive documentation designed to guide users through API functionalities. The **Movie recommendation API** is fictional.
+* **Movie recommendation API reference** - A sample of comprehensive documentation designed to guide users through API functionalities. The **Movie recommendation API** is fictional.
 
 ## Blog articles
 

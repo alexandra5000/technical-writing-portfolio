@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom_default
 title: "What is a kaleidoscope?"
 date: 2025-03-02
 tags: [technical writing, concept]

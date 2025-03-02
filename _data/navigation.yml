@@ -1,0 +1,10 @@
+- name: Home
+  url: /
+- name: What is a kaleidoscope?
+  url: /docs/concept.md
+- name: How to send images with WhatsApp
+  url: /docs/task.md
+- name: API reference
+  url: /docs/api.md
+- name: Blog
+  url: /blog

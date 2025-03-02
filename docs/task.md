@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom_default
 title: "Sending an image with WhatsApp (iOS)"
 date: 2025-03-02
 tags: [technical writing, task]
