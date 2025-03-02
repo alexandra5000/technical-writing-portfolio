@@ -1,12 +1,12 @@
 ---
-layout: default
-title: "Movie recommendation API documentation"
+layout: custom_default
+title: "Movie recommendation API reference"
 date: 2025-03-02
 tags: [technical writing, api]
 permalink: /api/
 ---
 
-# Movie recommendation API documentation
+# Movie recommendation API reference
 
 The **Movie recommendation API** provides users with personalized movie suggestions based on genres, ratings, and user preferences. This API can be integrated into applications to offer dynamic movie recommendations.
 
@@ -166,7 +166,7 @@ POST /reviews
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
 | `user_id` | String | Yes | Unique identifier of the user submitting the review. |
-| `movie_id` | String | Yes | The movie being reviewed. |
+| `movie_id` | String | Yes | Unique identifier of the movie. |
 | `rating` | Float | Yes | User's rating (0.0 - 10.0). |
 | `comment` | String | No | Optional text review. |
 
